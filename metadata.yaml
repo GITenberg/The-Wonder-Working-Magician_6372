@@ -1,0 +1,42 @@
+_repo: The-Wonder-Working-Magician_6372
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: MacCarthy, Denis Florence
+    aliases:
+    - M'Carthy, Denis Florence
+    - M'Carthy, D. F. (Denis Florence)
+    - McCarthy, Denis Florence
+    - MacCarthy, D. Florence (Denis Florence)
+    birthdate: 1817
+    deathdate: 1882
+    gutenberg_agent_id: '4460'
+    url: http://www.gutenberg.org/2009/agents/4460
+    wikipedia: http://en.wikipedia.org/wiki/Denis_Florence_MacCarthy
+creator:
+  author:
+    agent_name: Calderón de la Barca, Pedro
+    aliases:
+    - Calderon de la Barca, Pedro
+    - Barca, Pedro Calderón de la
+    birthdate: 1600
+    deathdate: 1681
+    gutenberg_agent_id: '970'
+    url: http://www.gutenberg.org/2009/agents/970
+    wikipedia: http://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Justina, Saint, d. 304 -- Drama'
+- !lcc 'PQ'
+- !lcsh 'Cyprian, Saint, d. 304 -- Drama'
+- GITenberg
+title: The Wonder-Working Magician
+url: http://www.gutenberg.org/ebooks/6372
