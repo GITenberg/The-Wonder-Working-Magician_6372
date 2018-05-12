@@ -1,5 +1,5 @@
 _repo: The-Wonder-Working-Magician_6372
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: MacCarthy, Denis Florence
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '4460'
     url: http://www.gutenberg.org/2009/agents/4460
     wikipedia: http://en.wikipedia.org/wiki/Denis_Florence_MacCarthy
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Calderón de la Barca, Pedro
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/970
     wikipedia: http://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6372#The-Wonder-Working-Magician
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
